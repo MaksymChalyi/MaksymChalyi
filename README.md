@@ -26,7 +26,7 @@ I've worked on various projects, including non-commercial ones, where I utilized
 - Completed courses in HTTP Servlets, SQL, JDBC, Apache Maven, Hibernate, and Spring by Dmdev, further honing my skills in web development, database management, and Spring framework.
 
 ## Get in Touch
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/maksym-chalyi-a8a2172a6)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/maksym-chalyi-a8a2172a6/)
 - 📧 Drop me an email at maksymchalyi2004@gmail.com
 
 ## Fun Fact
