@@ -11,7 +11,7 @@ I'm Maks, a Java developer passionate about building innovative and scalable app
 - 🗄️ SQL, PostgreSQL, H2 DB
 - 🧠 Algorithms, Data Structures
 - 🛢️ JDBC, Hibernate
-- 🔧 Spring Framework (Core, Web, Boot, Data JPA)
+- 🔧 Spring Framework (Core, Web, Boot, Data JPA, WebFlux)
 
 I thrive on problem-solving, continuous learning, and have a knack for quickly mastering new technologies.
 
