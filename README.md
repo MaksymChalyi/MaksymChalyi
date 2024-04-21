@@ -19,7 +19,7 @@ I thrive on problem-solving, continuous learning, and have a knack for quickly m
 I've worked on various projects, including non-commercial ones, where I utilized Java (Spring) technologies to implement features, integrate database management tools like Flyway, and efficiently tackle development challenges.
 
 ## Projects
-- **Book Management REST Service**: Developed a dynamic REST API for seamless management of books and authors using Java Servlets, JDBC, and PostgreSQL. Check it out on [GitHub](link-to-repo).
+- **Book Management REST Service**: Developed a dynamic REST API for seamless management of books and authors using Java Servlets, JDBC, and PostgreSQL. Check it out on [GitHub](https://github.com/MaksymChalyi/Book-Store-Rest-API-CRUD-App).
 
 ## Courses
 - Completed the Java Programming Masterclass updated to Java 17 on Udemy, enhancing my Java skills to the latest standards.
