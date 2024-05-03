@@ -1,7 +1,7 @@
-# Hi there, I'm Maksym ! Welcome to my GitHub profile! 👋
+# Hi there! Welcome to my GitHub profile! 👋
 
 ## About Me
-I'm Maks, a Java developer passionate about building innovative and scalable applications.I'm a dynamic Java software developer committed to excellence, with a passion for backend development and building robust applications. With a Bachelor's degree in Computer Science from the National Aviation University, I bring both theoretical knowledge and practical experience to the table. I have extensive experience in:
+I'm Maksym, a Java developer passionate about building innovative and scalable applications.I'm a dynamic Java software developer committed to excellence, with a passion for backend development and building robust applications. With a Bachelor's degree in Computer Science from the National Aviation University, I bring both theoretical knowledge and practical experience to the table. I have extensive experience in:
 - 💻 Java Core, Collection Framework, Stream API
 - 🛠️ Apache Maven, Gradle
 - 🌐 HTML5, Java Servlet API, JSP
